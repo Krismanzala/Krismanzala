@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krismanzala
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning Applie mathematics and Satistics/Data Science at Aix-Marseille University
+- 🌱 I’m currently learning Applied mathematics and Satistics/Data Science at Aix-Marseille University
 - 💞️ I’m looking to collaborate on Programming in R, Python and C++
 - 📫 How to reach me ...
 
