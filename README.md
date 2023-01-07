@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krismanzala
 - 👀 I’m interested in Mathematics and Computer Science
 - 🌱 I’m currently learning Applied mathematics and Satistics/Data Science at Aix-Marseille University
-- 💞️ I’m looking to collaborate on Programming in Python, C++, R and SQL
+- 💞️ I’m looking to collaborate on Programming in Python, C++, R and SQL for Data science
 - 📫 How to reach me : https//wwww.linkedin.com/in/christian-manzala-kumbi-14653a182
 
 <!---
