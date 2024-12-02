@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krismanzala
+- 👋 Hi, I’m @chrismanzala
 - 👀 I’m interested in Machine Learning (Reinforcement learning), Robotics and Blockchain technology
 - 🌱 I’m currently working on a project named "Decentralized Autonomous Robotic Swarm with Reinforcement Learning and Blockchain Integration"
 - 💞️ I’m also looking for collaboration in each of those fields
